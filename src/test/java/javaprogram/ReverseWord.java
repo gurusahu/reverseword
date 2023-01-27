@@ -7,7 +7,7 @@ public class ReverseWord {
 		
 		
 				
-				String str="hello world guru";
+				String str="hello world avinash";
 				String rev="";   //rev=0
 				String a[]=str.split(" ");  // hello=0 world=1 guru=2
 				
